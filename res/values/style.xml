@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Text">
+		<item name="android:background">#FFFF00</item>
+		<item name="android:textSize">@dimen/font_size</item>
+	</style>
+	<style name="Text.Text2">
+		<item name="android:background">#00FF00</item>
+	</style>
+	
+	<style name="FragmentList">
+        <item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="FragmentDetail">
+        <item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+    </style>
+</resources>
